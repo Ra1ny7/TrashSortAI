@@ -2,7 +2,7 @@
 
 > Умный Telegram-бот для распознавания мусора по фото и советов по переработке 🌍📸
 
-![Preview](https://github.com/Ra1ny7/TrashSortAI/raw/main/for_readme/2)
+![Preview](https://github.com/Ra1ny7/TrashSortAI/raw/main/2)
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 📸 Пример использования
 
-![Example](https://github.com/ra1ny/TrashSortAI/raw/main/for_readme/2)
+![Example](https://github.com/ra1ny/TrashSortAI/raw/main/2)
 
 ---
 
