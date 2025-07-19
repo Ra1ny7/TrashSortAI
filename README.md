@@ -53,7 +53,7 @@
 
 ## 📸 Пример использования
 
-![Example](https://github.com/ra1ny/TrashSortAI/raw/main/2.png)
+![Preview](https://github.com/Ra1ny7/TrashSortAI/raw/main/2.png)
 
 ---
 
